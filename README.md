@@ -8,7 +8,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es una implementación en C++ de un sistema de gestión de huéspedes para un hotel, utilizando una lista doblemente enlazada como estructura de datos principal. El programa permite realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) sobre los registros de huéspedes, cargando y guardando la información en un archivo de texto (`hotel.txt`).
+Este proyecto es una implementación en C++ de un sistema de gestión de huéspedes para un hotel, utilizando una lista doblemente enlazada como estructura de datos principal. El programa permite realizar operaciones sobre los registros de huéspedes, cargando y guardando la información en un archivo de texto (`hotel.txt`).
 
 El objetivo principal es aplicar los conceptos de manejo de estructuras de datos dinámicas.
 
