@@ -1,0 +1,18 @@
+# ninja log v6
+73	4911	7772450478597281	CMakeFiles/listas_hotel.dir/main.cpp.obj	b2f578b2748f9ffb
+241	2505	7772452348952620	build.ninja	122312f123a04e9c
+17	46	7772442609718308	clean	18985f9f00b1b1db
+160	4123	7772450479481103	CMakeFiles/listas_hotel.dir/Nodo.cpp.obj	f9725542f4ae2655
+116	6286	7772450479017428	CMakeFiles/listas_hotel.dir/ListaDoble.cpp.obj	84938f5bc35e8b1a
+6287	6757	7772450540723484	listas_hotel.exe	725d434742226c11
+17	45	7772452455128704	clean	18985f9f00b1b1db
+112	1993	7772452460569140	CMakeFiles/listas_hotel.dir/Nodo.cpp.obj	f9725542f4ae2655
+41	2556	7772452459838667	CMakeFiles/listas_hotel.dir/main.cpp.obj	b2f578b2748f9ffb
+64	3451	7772452460069008	CMakeFiles/listas_hotel.dir/ListaDoble.cpp.obj	84938f5bc35e8b1a
+3451	3897	7772452493932212	listas_hotel.exe	725d434742226c11
+19	1804	7772456913918232	CMakeFiles/listas_hotel.dir/ListaDoble.cpp.obj	84938f5bc35e8b1a
+1806	2106	7772456931788283	listas_hotel.exe	725d434742226c11
+45	1583	7772480074758440	CMakeFiles/listas_hotel.dir/Nodo.cpp.obj	f9725542f4ae2655
+18	2412	7772480074488460	CMakeFiles/listas_hotel.dir/main.cpp.obj	b2f578b2748f9ffb
+32	3654	7772480074628411	CMakeFiles/listas_hotel.dir/ListaDoble.cpp.obj	84938f5bc35e8b1a
+3654	4513	7772480110847481	listas_hotel.exe	725d434742226c11
