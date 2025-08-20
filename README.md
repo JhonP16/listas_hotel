@@ -6,6 +6,10 @@
 * Pablo José Benítez
 * Jhon Jairo Pulgarin Restrepo
 
+## URL del Video de Presentación
+
+* **Enlace al video**: https://youtu.be/gfFpdXiOkS0
+
 ## Descripción del Proyecto
 
 Este proyecto es una implementación en C++ de un sistema de gestión de huéspedes para un hotel, utilizando una lista doblemente enlazada como estructura de datos principal. El programa permite realizar operaciones sobre los registros de huéspedes, cargando y guardando la información en un archivo de texto (`hotel.txt`).
@@ -42,6 +46,3 @@ Este archivo está localizado en cmake-build-debug y guardará todos los datos d
     * Para compilar desde la terminal, puedes usar: `g++ main.cpp ListaDoble.cpp -o programa_hotel -std=c++17`
 * **Estructura de Datos**: Lista Doblemente Enlazada.
 
-## URL del Video de Presentación
-
-* **Enlace al video**: 
