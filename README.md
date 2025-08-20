@@ -1,4 +1,4 @@
-# Práctica I: Gestión de Huéspedes de Hotel con Listas Dobles
+# Práctica I: Gestión de Huéspedes de Hotel con Listas Doblemente Enlazadas
 
 ## Miembros del Equipo
 
